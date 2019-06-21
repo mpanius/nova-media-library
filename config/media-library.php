@@ -60,7 +60,7 @@ return [
 		'Image'     => [ 'jpg', 'jpeg', 'png', 'gif', 'svg' ],
 		'Docs'      => [ 'doc', 'xls', 'docx', 'xlsx' ],
 		'Audio'     => [ 'mp3' ],
-		'Video'     => [ 'mp4' ],
+		'Video'     => [ 'mp4','avi' ],
 		#'Other'     => [ '*' ],
 	],
 
